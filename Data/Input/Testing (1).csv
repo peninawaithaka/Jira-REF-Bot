@@ -2,4 +2,3 @@ Ticket Type,Summary,Description,Assignee,Ticket Priority
 Story,About us page,Populate the field with the text provided,Steve Ndeke,Blocker
 Task,Create login Form,Create a login card and center align it,Anthony Njuguna,Critical
 Bug,Login Access Denied,Ensure registered users are able to login,Mercy Omondi,Minor
-,,,,
